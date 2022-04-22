@@ -2,4 +2,7 @@
 
 ### movie application
 
-- [x] create the movie app
+#### process to follow
+- [ ] create the movie app
+    - [ ] setup admin page
+- [ ] create the news app
